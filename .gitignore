@@ -1,0 +1,8 @@
+### PDF ###
+*.pdf
+
+### IDE / build ###
+.idea/
+*.iml
+out/
+target/
