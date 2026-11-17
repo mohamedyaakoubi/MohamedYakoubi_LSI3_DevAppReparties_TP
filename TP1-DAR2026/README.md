@@ -82,7 +82,7 @@ java --version
 - `java --version` affiche **openjdk 25 (Temurin-25+36 LTS)**. Java est bien installé, et la version 25 est plus grande que 1.8 (version demandée).
 - Les deux commandes marchent dans le terminal. Donc je n'ai pas besoin de changer la variable d'environnement `PATH`.
 
-Dans mon espace de travail, j'ai créé le dossier **`MohamedYakoubi_LSI3_DevAppReparties_TP1`**. Mon projet est dans ce dossier.
+Dans mon espace de travail, j'ai créé le dossier **`MohamedYakoubi_LSI3_DevAppReparties_TP`**. Mon projet est dans ce dossier.
 
 ---
 
@@ -93,7 +93,7 @@ Dans mon espace de travail, j'ai créé le dossier **`MohamedYakoubi_LSI3_DevApp
 Je lance IntelliJ IDEA et je crée un nouveau projet Java avec les réglages par défaut :
 
 - **Name** : `TP1-DAR2026`
-- **Location** : dans le dossier `MohamedYakoubi_LSI3_DevAppReparties_TP1`
+- **Location** : dans le dossier `MohamedYakoubi_LSI3_DevAppReparties_TP`
 - **Create Git repository** : coché (pour avoir un dépôt Git)
 - **Build system** : IntelliJ
 - **JDK** : 25
